@@ -1,0 +1,173 @@
+/* ---------------header--------------- */
+#header {
+  background-color: #161616;
+}
+.container-fluid {
+  padding: 1% 2%;
+}
+.logo-image{
+  width: 90px;
+  height: auto;
+  margin-left: 40px;
+}
+.navbar {
+  padding-left: 0px;
+}
+.nav-item {
+  font-family: 'Lato';
+  padding: 0.3rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.nav-item
+{
+  color: #ffffff;
+}
+a:hover
+{
+  color: #D13532;
+
+}
+.nav-link:hover
+{
+  border: solid;
+  border-top: 1px;
+  border-right: 1px;
+  border-left: 1px;
+  border-color: #D13532;
+}
+
+
+.header-title {
+margin-bottom: 10%;
+padding: 5%;
+}
+
+
+/* ---------------section_1--------------- */
+#sec1
+{
+background-color: #161616;
+}
+
+.sec1-title
+{
+  color: #ffffff;
+  margin: auto;
+  padding: 0% 0% 0% 0%;
+  text-align: center;
+  font-family: "Nunito";
+  font-size: 3rem;
+}
+.sec1-text
+{
+  color: #ffffff;
+  margin: auto;
+  padding: 3%;
+  text-align: center;
+  font-family: "Nunito";
+  font-size: 2rem;
+}
+
+.header-img
+{
+
+     object-fit: scale-down;
+     width: 100%;
+     height: auto;
+     opacity: 0.7;
+}
+/* ---------------section_2--------------- */
+#sec2
+{
+  background-color: #161616;
+  color: #808080;
+  text-align: center;
+  padding: 4% 0%;
+}
+.btn-danger
+{
+  margin: 1%;
+  padding: 1% 2%;
+}
+
+
+/* ---------------section_3--------------- */
+
+
+#sec3 {
+  position: relative;
+  margin: 6% 4%;
+  text-align: center;
+  padding: 0%;
+
+}
+
+.sec3_box1,.sec3_box2,.sec3_box3
+{
+  font-family: "Montserrat";
+  margin: 0%;
+  padding: 0%;
+  padding-bottom: 2.5%;
+
+}
+
+.sec3_img {
+   object-fit: cover;
+   width: 100%;
+   height: 110%;
+   opacity: 0.5;
+}
+
+.sec3_box1,.sec3_box2
+{
+color: #ffffff;
+background-color: #161616;
+}
+.sec3_box3
+{
+color: black;
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sec3-title {
+margin-bottom: 10%;
+padding: 5%;
+}
+
+
+
+
+/* ---------------footer--------------- */
+
+#footer {
+  background-color: #161616;
+  color: #f7f7f7;
+  font-size: 0.8rem;
+  padding: 0% 3%;
+}
+.footer_box1,.footer_box2,.footer_box3
+{
+  padding: 3% 1% 1% 1%;
+}
+.col-lg-4.footer_box1
+{
+text-align: center;
+}
+.col-lg-4.footer_box2
+{
+text-align: center;
+}
+.col-lg-4.footer_box3
+{
+text-align: center;
+}
+.footer_box2{
+  text-align: center;
+}
